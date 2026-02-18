@@ -1,13 +1,35 @@
-## Hi there 👋
-https://domos.gt.tc/
+# About Domos Technologies
 
-<!--
+We are a forward-thinking Zambian tech startup dedicated to creating innovative solutions tailored to our local context while competing on a global scale.
 
-**Here are some ideas to get you started:**
+## Our Mission
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- To leverage cutting-edge technology to solve pressing challenges in Zambia and beyond, creating sustainable digital solutions that drive economic growth and improve quality of life.
+- Founded in Lusaka, Domos Technologies combines local insight with global tech expertise to build products that are both innovative and culturally relevant.
+
+## Our Services
+
+We provide a range of technology services designed to help businesses and organizations thrive in the digital age.
+
+### Mobile App Development
+- Custom mobile applications for iOS and Android, designed to meet the unique needs of Zambian users and businesses.
+
+### Web Solutions
+- Responsive, modern websites and web applications that deliver exceptional user experiences across all devices.
+
+### Cloud Services
+- Secure and scalable cloud infrastructure solutions to help businesses operate efficiently and reduce IT costs.
+
+### Data Analytics
+- Transform your data into actionable insights with our advanced analytics and business intelligence solutions.
+
+### Cybersecurity
+- Protect your digital assets with our comprehensive cybersecurity services tailored to Zambian businesses.
+
+### Tech Training
+- Capacity building programs to equip Zambian professionals with in-demand digital skills for the future.
+
+## Get in Touch
+Ready to transform your business with technology? Contact Domos Technologies today.
+
+`https://domos.gt.tc/`
